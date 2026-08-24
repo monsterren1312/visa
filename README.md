@@ -1,4 +1,4 @@
-# NEWS USA Telegram Bot
+# Visa USA Telegram Bot
 
 Автоматически публикует новости об иммиграции, грин-картах и визах США на
 русском языке в Telegram-канал. Источники — RSS-ленты (Immigration Impact,
