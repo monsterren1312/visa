@@ -1,5 +1,9 @@
 {
-  "seen_hashes": [],
-  "seen_links": [],
-  "next_post_not_before": null
+  "seen_hashes": [
+    "04fb79a57e5d97f597837d64157fedb5380c59ebec6a185bfe4e4a709354dac2"
+  ],
+  "seen_links": [
+    "https://www.americanimmigrationcouncil.org/press-release/national-study-influence-local-community/"
+  ],
+  "next_post_not_before": 1787615437.649857
 }
