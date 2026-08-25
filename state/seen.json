@@ -1,9 +1,11 @@
 {
   "seen_hashes": [
-    "04fb79a57e5d97f597837d64157fedb5380c59ebec6a185bfe4e4a709354dac2"
+    "04fb79a57e5d97f597837d64157fedb5380c59ebec6a185bfe4e4a709354dac2",
+    "5ce5f0e51cc08ffdbf8649b3544dcf686d3dce75d6770fa7dbc00203608eca22"
   ],
   "seen_links": [
-    "https://www.americanimmigrationcouncil.org/press-release/national-study-influence-local-community/"
+    "https://www.americanimmigrationcouncil.org/press-release/national-study-influence-local-community/",
+    "https://www.americanimmigrationcouncil.org/case-studies/washington-main-street-belonging-barometer/"
   ],
-  "next_post_not_before": 1787615437.649857
+  "next_post_not_before": 1787623243.881439
 }
